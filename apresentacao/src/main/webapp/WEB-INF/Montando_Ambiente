@@ -1,0 +1,17 @@
+1]Crie os projetos maven
+apresentacao/servico/modelo/persistencia
+
+2]Crie o EAR que encapsula os outros projetos e habilite
+o aplicattion.xml
+
+3]Adicione os projetos uns aos outros no BUILD PATH
+Build Path/Projetcs/ADD/selecione os projetos
+
+4]Configura o buildpath setando o JDK para o JBOSS
+BuildPath/Libraries/selecione a JRE/Edit/Alternate JRE/Coloque
+o caminho do JDK
+
+5]Configure o POM dos projetos:
+No pom.xml da apresentação deverá ter a declaração do web.xml
+
+6]

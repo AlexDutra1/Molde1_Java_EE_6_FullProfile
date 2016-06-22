@@ -1,0 +1,23 @@
+<faces-config
+    xmlns="http://xmlns.jcp.org/xml/ns/javaee"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/javaee http://xmlns.jcp.org/xml/ns/javaee/web-facesconfig_2_2.xsd"
+    version="2.2"> 
+   
+
+	<!-- Mapeamento de converter para combo -->
+<!-- 	<converter>
+		<display-name>SimpleEntityConverter</display-name>
+		<converter-id>SimpleEntityConverter</converter-id>
+		<converter-class>br.com.controller.util.SimpleEntityConverter</converter-class>
+	</converter>
+ -->	
+	<!-- Mapeamento de converter para combo -->
+<!-- 	<converter>
+		<display-name>SimpleIndexConverter</display-name>
+		<converter-id>SimpleIndexConverter</converter-id>
+		<converter-class>br.com.controller.util.SimpleIndexConverter</converter-class>
+	</converter>
+ -->
+	
+</faces-config>
